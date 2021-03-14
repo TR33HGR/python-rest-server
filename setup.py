@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-tr33hgr", # Replace with your own username
+    name="python-template-tr33hgr", # Replace with your own username
     version="0.0.1",
     author="TR33HGR",
     author_email="",
