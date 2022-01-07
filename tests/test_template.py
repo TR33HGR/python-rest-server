@@ -1,4 +1,4 @@
-from python_template.template import is_true
+from server.template import is_true
 
 
 def test():

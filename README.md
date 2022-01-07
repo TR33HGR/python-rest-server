@@ -1,7 +1,7 @@
-# python-template
-Template for installable python package, with tox for unit tests & linting.
+# python-rest-server
+A Rest server for debugging RestApi calls.
 
-Created following the [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/) tutorial
+Created following the [xyz](xyz.com) tutorial
 
 ## tox
 For tox, from the base directory, run the command:
