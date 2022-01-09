@@ -1,7 +1,7 @@
 # python-rest-server
 A Rest server for debugging RestApi calls.
 
-Created following the [xyz](xyz.com) tutorial
+Created following the [Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) tutorial
 
 ## tox
 For tox, from the base directory, run the command:
