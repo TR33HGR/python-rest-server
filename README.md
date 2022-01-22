@@ -3,7 +3,7 @@ A Rest server for debugging RestApi calls.
 
 Created following the [Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) tutorial
 
-To run, from `/src`, run the command:
+To run, from `/src/mircoblog`, run the command:
 ```
 flask run
 ```
