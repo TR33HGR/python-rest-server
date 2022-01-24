@@ -24,6 +24,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="src"),
     install_requires=[
           'flask',
+          'flask-wtf',
           'python-dotenv',
     ],
     python_requires=">=3.6",
