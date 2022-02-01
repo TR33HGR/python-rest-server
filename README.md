@@ -1,5 +1,5 @@
 # python-rest-server
-A Rest server for debugging RestApi calls.
+Cuurently not a REST server, but following a Flask tutorial to learn the basics of server development.
 
 Created following the [Miguel Grinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) tutorial
 
